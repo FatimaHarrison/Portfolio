@@ -1,4 +1,15 @@
 h1{
-    font-family: 'Times New Roman';
-    font-weight: 800;
+    font-family: 'Georgia';
+    font-weight:bold;
+    font-size:42px;
+    font-style: initial;
 }
+
+body{
+    background-color:oldlace;
+}
+
+button{
+    background-color: blue;
+}
+   

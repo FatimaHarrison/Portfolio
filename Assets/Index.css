@@ -1,4 +1,17 @@
 h1{
     font-family: 'Times New Roman';
-    font-weight: 800;
+    font-weight:14px;
+    font-size: larger;
 }
+
+img{
+    height: 11cm;
+    
+}
+
+p{
+   font-size: medium;
+    float:center;
+    width: fit-content;
+}
+
