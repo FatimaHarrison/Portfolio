@@ -16,6 +16,13 @@ img{
     
 }
 
+button{
+    background-color: darksalmon;
+    float: inline-end;
+    float: right;
+    size: 17px;
+}
+
 p{
    font-size: medium;
     float:center;
