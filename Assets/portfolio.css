@@ -1,8 +1,28 @@
 h1{
     font-family: 'Times New Roman';
-    font-weight:200;
+    font-weight:20px;
+    font-size:42px;
+    font-style:italic;
+}
+
+body{
+    background-color:oldlace;
+    
+}
+
+button{
+    background-color: darksalmon;
+    float: inline-end;
+    float: right;
+    size: 17px;
+}
+
+h2{
+    font-family: 'Times New Roman';
+    font-size: 33px;
+    
 }
 
 img{
-    size-adjust:9cm;
+    width: 7cm;
 }

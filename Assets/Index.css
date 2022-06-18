@@ -1,11 +1,17 @@
 h1{
-    font-family: 'Times New Roman';
+    font-family: 'Georgia';
     font-weight:14px;
-    font-size: larger;
+    
+}
+
+h2{
+    font-family: Georgia;
+    font-size:47;
 }
 
 img{
     height: 11cm;
+    width:9cm
     
 }
 
@@ -15,3 +21,8 @@ p{
     width: fit-content;
 }
 
+li{
+    float: right;
+    font-family: Georgia;
+    font-weight: 14px;
+}
