@@ -3,11 +3,13 @@ h1{
     font-weight:20px;
     font-size:42px;
     font-style:italic;
+    text-align: left;
 }
 
 h2{
-    font-family: Georgia;
+    font-family: 'Times New Roman';
     font-size:47;
+    font-style: italic;
 }
 
 img{
@@ -16,11 +18,28 @@ img{
     
 }
 
+body{
+    text-align:center ;
+    background-color: tan;
+}
+
+
+
+p{
+    height: 9in;
+    font-style: italic;
+    font-family: Helvetica;
+    font-size: large;
+    font-weight: 500;
+}
+
+
+
 button{
     background-color: rgb(177, 169, 169);
     float: inline-end;
     float: right;
-    size: 17px;
+    size: 34px;
 }
 
 p{
@@ -34,3 +53,4 @@ li{
     font-family: Georgia;
     font-weight: 14px;
 }
+
