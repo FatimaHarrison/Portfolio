@@ -25,7 +25,7 @@ h2{
 }
 
 img{
-    height: 9cm;
+    height: 6cm;
     width:9cm
     
 }
@@ -43,6 +43,9 @@ p{
     font-family: Helvetica;
     font-size: large;
     font-weight: 500;
+    font-size: medium;
+    float:center;
+    width: fit-content;
 }
 
 
@@ -54,11 +57,7 @@ button{
     size: 34px;
 }
 
-p{
-   font-size: medium;
-    float:center;
-    width: fit-content;
-}
+
 
 li{
     float: right;
