@@ -15,34 +15,23 @@ h1{
     font-size:42px;
     font-style:italic;
     text-align: left;
-    color:oldlace;
+    color: #fdf5e6;
 }
 
-h2{
-    font-family: 'Times New Roman';
-    font-size:47;
-    font-style: italic;
-    color:oldlace;
-    font-weight: 23px;
+.nav-brand{
+    background-color: eggshell;
 }
-
-img{
-    height: 6cm;
-    width:9cm
-    
-}
-
 
 p{
     height: 9in;
     font-style: italic;
+    color: #fdf5e6;
     font-family: Helvetica;
     font-size: large;
     font-weight: 500;
     font-size: medium;
     float:center;
     width: fit-content;
-    color:oldlace;
     font-weight: 23px;
 }
 
