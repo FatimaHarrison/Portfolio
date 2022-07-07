@@ -9,8 +9,9 @@ body{
     background-size: 100% 100%;
 }
 
-
-
+img{
+    algin-text: center;
+}
 
 h1{
     font-family: 'Times New Roman';
