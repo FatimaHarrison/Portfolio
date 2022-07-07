@@ -9,23 +9,20 @@ body{
 }
 
 img{
-    height: 300px;
+    height: 9em;
     width: 300px;
 
 
 h1{
     font-family: 'Times New Roman';
-    color: #fdf5e6;
     font-weight:20px;
     font-size:42px;
     font-style:italic;
+    color: #fdf5e6;
     text-align: left;
     
 }
 
-.nav-brand{
-    background-color: eggshell;
-}
 
 p{
     height: 9in;
