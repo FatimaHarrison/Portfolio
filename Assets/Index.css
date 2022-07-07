@@ -1,9 +1,13 @@
 body{
-    https://wallpaperboat.com/wp-content/uploads/2019/12/winter-snow-scenes-02.jpg
-
-
-
-
+    text-align: center;
+    color: oldlace;
+    vertical-align: middle;
+    padding-top: 5%;
+    background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/12/winter-snow-scenes-02.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 
 
 h1{
