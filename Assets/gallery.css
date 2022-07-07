@@ -1,1 +1,47 @@
+body{
+    text-align: center;
+    color: oldlace;
+    vertical-align: middle;
+    padding-top: 5%;
+    background-image: url("https://wallpaperboat.com/wp-content/uploads/2019/12/winter-snow-scenes-02.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 
+img{
+    algin-text: center;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    font-weight:20px;
+    font-size:42px;
+    font-style:italic;
+    text-align: left;
+}
+
+body{
+    background-color:tan;
+    text-align: center;
+    
+}
+
+button{
+    background-color: rgb(177, 169, 169);
+    float: inline-end;
+    float: right;
+    size: 17px;
+}
+
+h2{
+    font-family: 'Times New Roman';
+    font-size: 47px;
+    font-style: italic;
+    text-align:center
+}
+
+img{
+    width: 7cm;
+    height:7cm;
+}
