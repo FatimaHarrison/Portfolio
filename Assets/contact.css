@@ -44,10 +44,11 @@ input{
     height:2cm;
     
     }
+
 text{
-    input{
     width: 8in;
     height:4cm;
+}
 
 h3{
     font-family: 'Times New Roman';
