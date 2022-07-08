@@ -13,11 +13,12 @@ body{
 
 
 h1{
+    font-size: 47px;
+    color: oldlace;
+    font-style: italic;
     font-family: 'Times New Roman';
-    font-weight:20px;
-    font-size:42px;
-    font-style:italic;
-    text-align: left;
+    font-weight: 800;
+    text-algined: left;
 }
 
 body{
