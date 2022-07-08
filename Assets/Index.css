@@ -22,15 +22,11 @@ h2{
 }
 
 p{
-    height: 9in;
-    font-style: italic;
-    color: #fdf5e6;
-    font-family: Helvetica;
-    font-size: large;
-    font-weight:70px;
-    font-size: medium;
-    float:center;
-    width: fit-content;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: oldlace;
+    font-weight: 700;
+    font-family: 'Times New Roman';
     
 }
 
